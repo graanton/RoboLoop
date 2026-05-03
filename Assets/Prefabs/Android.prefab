@@ -337,6 +337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7435905508299901667}
+  - component: {fileID: 5643997501058465124}
   m_Layer: 0
   m_Name: Android
   m_TagString: Untagged
@@ -362,6 +363,28 @@ Transform:
   - {fileID: 1065857620437309531}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &5643997501058465124
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7773140524846098671}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 4275cee45a7e86f4db27263d0c907e15, type: 3}
+  m_Controller: {fileID: 9100000, guid: e818d0ea2a7fb73429b710004b3236f3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7805652972272293139
 GameObject:
   m_ObjectHideFlags: 0
